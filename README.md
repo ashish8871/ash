@@ -1,1 +1,3 @@
 # ash
+this is my first git reprosatory...
+author : ashish dhakal
